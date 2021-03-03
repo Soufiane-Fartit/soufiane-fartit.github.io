@@ -5010,7 +5010,7 @@ sup {
 	 justify-content: center;
 }
  .card {
-	 background-color: #FFFFFF;
+	 background-color: transparent;
 	 border: solid;
 	 border-color: #1a222c;
 	 border-width: thin;
