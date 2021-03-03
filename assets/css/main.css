@@ -5023,8 +5023,8 @@ sup {
 	 padding: 20px;
 	 margin: 5px;
 	 -webkit-box-shadow: -20px -20px 0px 0px #555555;
-	 box-shadow: -5px -5px 0px 0px #555555;
-	 border-radius: 10px;
+	 box-shadow: -5px -5px 5px 5px #555555;
+	 border-radius: 5px;
 	 -webkit-animation-name: shadow-show;
 	/* Safari 4.0 - 8.0 */
 	 -webkit-animation-duration: 1.5s;
