@@ -5001,6 +5001,10 @@ sup {
 	 margin-left: auto;
 	 margin-right: auto;
 }
+.row {
+	display: flex;
+	overflow-x: scroll;
+  }
  .center {
 	 -webkit-box-align: center;
 	 -ms-flex-align: center;
