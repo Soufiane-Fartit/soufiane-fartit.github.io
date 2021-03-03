@@ -5001,10 +5001,20 @@ sup {
 	 margin-left: auto;
 	 margin-right: auto;
 }
-.row {
-	display: flex;
-	overflow-x: scroll;
+
+  
+  .horizon-prev,
+  .horizon-next {
+	position: fixed;
+	top: 50%;
+	margin-top: -24px;
+	z-index: 9999;
   }
+  
+  .horizon-prev { left: 20px; }
+  
+  .horizon-next { right: 20px; }
+  
  .center {
 	 -webkit-box-align: center;
 	 -ms-flex-align: center;
