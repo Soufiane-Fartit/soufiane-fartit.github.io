@@ -5077,6 +5077,10 @@ sup {
 	 font-family: 'Noto Sans KR', sans-serif;
 	 text-transform: uppercase;
 }
+.iconify {
+	line-height: 30px;
+}
+
 /* Safari 4.0 - 8.0 */
  @-webkit-keyframes line-show {
 	 from {
