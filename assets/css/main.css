@@ -4980,6 +4980,10 @@ sup {
 		width: 80%
 	}
 }
+.domain_skills_cell {
+	display: inline-block;
+	margin: 10px
+}
 
 .tech {
 	display: inline-block;
@@ -5023,12 +5027,6 @@ sup {
 	}
 }
 
-.cell {
-    float: left;
-    width: 200px;
-    margin: 5px;
-    border: 1px solid #000000
-}
 
 .tech {
 	display: inline-block;
