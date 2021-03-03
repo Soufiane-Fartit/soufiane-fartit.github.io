@@ -6,5 +6,21 @@
   flex-wrap: wrap;
 }
 
-.domain_skills {display: inline-block; vertical-align: top;}
+.domain_skills {
+  @include flex-wrap-fix(100px);
+  text-align: center;
+  font-size: 60px;
+  display: inline-block; vertical-align: top;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  p {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $cut) {
+    flex-wrap: nowrap;
+    font-size: 75px;
+  }
+}
+
 
