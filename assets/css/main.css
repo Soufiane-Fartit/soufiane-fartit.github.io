@@ -5009,50 +5009,6 @@ sup {
 	 -ms-flex-pack: center;
 	 justify-content: center;
 }
-::-webkit-scrollbar {
-	width: 1px;
-	height: 1px;
-}
-::-webkit-scrollbar-button {
-	width: 1px;
-	height: 1px;
-}
-body {
-	background: #111;
-}
-div {
-	box-sizing: border-box;
-}
-.container {
-	width: 80%;
-	min-height: 100vh;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
-	margin-left: auto;
-	margin-right: auto;
-	
-	margin: 0;
-	padding-top: 1px;
-	background: #abc;
-	overflow-y: auto;
-	overflow-x: hidden;
-}
-.container > div {
-	display: block;
-	transform: rotate(90deg);
-	transform-origin: right top;
-}
-.squares {
-	padding: 250px 0 0 0;
-}
-.squares > div {
-	width: 250px;
-	height: 250px;
-	margin: 10px 0;
-}
  .card {
 	 background-color: #aeaeae;
 	 width: 250px;
