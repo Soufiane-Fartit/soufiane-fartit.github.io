@@ -5039,13 +5039,9 @@ div {
 	background: #abc;
 	overflow-y: auto;
 	overflow-x: hidden;
-	transform: rotate(-90deg) translateY(-250px);
-	transform-origin: right top;
 }
 .container > div {
 	display: block;
-	padding: 5px;
-	background: #cab;
 	transform: rotate(90deg);
 	transform-origin: right top;
 }
