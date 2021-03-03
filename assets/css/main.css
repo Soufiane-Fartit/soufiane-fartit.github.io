@@ -5023,6 +5023,12 @@ sup {
 	}
 }
 
+.cell {
+    float: left;
+    width: 200px;
+    margin: 5px;
+    border: 1px solid #000000
+}
 
 .tech {
 	display: inline-block;
