@@ -5024,10 +5024,7 @@ div {
 	box-sizing: border-box;
 }
 .container {
-	position: absolute;
 	display: block;
-	top: 0;
-	left: 0;
 	width: calc(250px + 1px);
 	max-height: 750px;
 	margin: 0;
