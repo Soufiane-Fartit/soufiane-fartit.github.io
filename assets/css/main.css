@@ -5077,7 +5077,7 @@ sup {
 	 font-family: 'Noto Sans KR', sans-serif;
 	 text-transform: uppercase;
 }
-.card span {
+.card span.iconify {
     text-align: center;
 	line-height: 30px;
 }
