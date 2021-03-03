@@ -4982,6 +4982,7 @@ sup {
 }
 
 .tech {
+	display: inline-block;
 	margin: 10px
 }
 
@@ -5024,6 +5025,7 @@ sup {
 
 
 .tech {
+	display: inline-block;
 	margin: 10px
 }
 
