@@ -5013,6 +5013,7 @@ sup {
 	 background-color: rgb(90, 107, 126);
 	 width: 250px;
 	 min-height: 404.5px;
+	 text-align: center;
 	 display: -webkit-box;
 	 display: -ms-flexbox;
 	 display: flex;
