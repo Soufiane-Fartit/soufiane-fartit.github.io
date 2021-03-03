@@ -5010,7 +5010,8 @@ sup {
 	 justify-content: center;
 }
  .card {
-	 background-color: #1a222c;
+	 background-color: #FFFFFF;
+	 border-color: #1a222c;
 	 width: 250px;
 	 min-height: 204.5px;
 	 text-align: center;
@@ -5027,8 +5028,7 @@ sup {
 }
 @media only screen and (max-width:550px) {
 	.card {
-		background-color: #FFFFFF;
-		border-color: #1a222c;
+		background-color: #1a222c;
 		width: 250px;
 		min-height: 204.5px;
 		text-align: center;
