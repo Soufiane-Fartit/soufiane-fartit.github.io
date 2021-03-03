@@ -5050,7 +5050,7 @@ sup {
 	padding: 0px 0px 15px 0px;
 	font-family: 'Noto Sans KR', sans-serif;
 	font-size: 22px;
-	color: #282828;
+	color: #FFFFFF;
 	}
 	.card p {
 		margin: 15px 15px 15px 15px;
@@ -5061,7 +5061,7 @@ sup {
 		font-size: 16px;
 		word-break: break-all;
 		word-wrap: pre-wrap;
-		color: #282828;
+		color: #FFFFFF;
 		-webkit-animation-name: p-show;
 	   /* Safari 4.0 - 8.0 */
 		-webkit-animation-duration: 1.5s;
