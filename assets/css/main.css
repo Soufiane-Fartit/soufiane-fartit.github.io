@@ -5012,6 +5012,7 @@ sup {
  .card {
 	 background-color: #FFFFFF;
 	 border-color: #1a222c;
+	 border-width: thick;
 	 width: 250px;
 	 min-height: 204.5px;
 	 text-align: center;
@@ -5073,7 +5074,7 @@ sup {
 	 padding: 0px 0px 15px 0px;
 	 font-family: 'Noto Sans KR', sans-serif;
 	 font-size: 22px;
-	 color: #FFFFFF;
+	 color: #1a222c;
 }
  .card hr {
 	 display: block;
@@ -5101,7 +5102,7 @@ sup {
 	 font-size: 16px;
 	 word-break: break-all;
 	 word-wrap: pre-wrap;
-	 color: #FFFFFF;
+	 color: #1a222c;
 	 -webkit-animation-name: p-show;
 	/* Safari 4.0 - 8.0 */
 	 -webkit-animation-duration: 1.5s;
