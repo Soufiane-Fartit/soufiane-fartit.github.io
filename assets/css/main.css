@@ -5047,7 +5047,7 @@ sup {
 	 display: block;
 	 border: none;
 	 height: 3px;
-	 background-color: salmon;
+	 background-color: #555555;
 	 margin: 0px;
 	 -webkit-animation-name: line-show;
 	/* Safari 4.0 - 8.0 */
@@ -5079,7 +5079,7 @@ sup {
 }
  .card button {
 	 border: none;
-	 background-color: salmon;
+	 background-color: #555555;
 	 width: 50%;
 	 margin: 10px auto;
 	 padding: 10px 30px;
