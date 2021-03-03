@@ -1,7 +1,8 @@
 .domain_skills_cell {
+  float: left;
   text-align: center;
   margin: 10px;
-	display: inline-block;
+  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
