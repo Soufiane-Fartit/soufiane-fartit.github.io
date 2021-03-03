@@ -5033,6 +5033,27 @@ sup {
 	margin: 10px
 }
 
+.domain_skills {
+	text-align: center;
+	font-size: 60px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between
+}
+
+.domain_skills p {
+	font-size: 16px
+}
+
+
+@media only screen and (min-width:550px) {
+	.domain_skills {
+		flex-wrap: nowrap;
+		font-size: 75px
+	}
+}
+
 .user {
 	text-align: center;
 	font-size: 60px;
