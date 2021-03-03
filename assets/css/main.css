@@ -5011,6 +5011,7 @@ sup {
 }
  .card {
 	 background-color: #FFFFFF;
+	 border: solid;
 	 border-color: #1a222c;
 	 border-width: thick;
 	 width: 250px;
