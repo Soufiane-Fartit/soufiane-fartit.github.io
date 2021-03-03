@@ -5024,12 +5024,16 @@ div {
 	box-sizing: border-box;
 }
 .container {
-	display: block;
-	width: calc(250px + 1px);
-	max-height: 750px;
-	margin: 0;
-	padding-top: 1px;
-	background: #abc;
+	width: 80%;
+	min-height: 100vh;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto;
+
 	overflow-y: auto;
 	overflow-x: hidden;
 	transform: rotate(-90deg) translateY(-250px);
