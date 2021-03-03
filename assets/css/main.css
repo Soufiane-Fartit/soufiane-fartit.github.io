@@ -5078,6 +5078,7 @@ sup {
 	 text-transform: uppercase;
 }
 .iconify {
+    text-align: center;
 	line-height: 30px;
 }
 
