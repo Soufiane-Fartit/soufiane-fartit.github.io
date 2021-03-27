@@ -5188,7 +5188,7 @@ sup {
 .user-details {
 	text-align: center;
 	margin: 5px auto
-	height:100%;
+	min-height:760px;
 }
 
 #skills {
